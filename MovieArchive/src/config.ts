@@ -1,0 +1,12 @@
+// ─────────────────────────────────────────────────────────────────────────────
+// Things you might want to change live in this one file.
+// ─────────────────────────────────────────────────────────────────────────────
+
+// 1) YOUR TMDB API KEY  ← paste it between the quotes, replacing the placeholder.
+//    Use the "API Key (v3 auth)" from themoviedb.org → Settings → API.
+export const TMDB_API_KEY = 'PASTE_YOUR_TMDB_KEY_HERE'
+
+// 2) THE BIG TITLE AT THE TOP OF THE PAGE (also becomes the browser tab title).
+//    The first part is normal text, the second part is shown in italics.
+export const TITLE_PLAIN = 'Thoughts on What'
+export const TITLE_ITALIC = "I've Watched"
