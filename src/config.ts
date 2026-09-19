@@ -8,5 +8,5 @@ export const TMDB_API_KEY = '2923ccd110279961af46e0201491dd3b'
 
 // 2) THE BIG TITLE AT THE TOP OF THE PAGE (also becomes the browser tab title).
 //    The first part is normal text, the second part is shown in italics.
-export const TITLE_PLAIN = ''
-export const TITLE_ITALIC = "Movies and Shows"
+   export const TITLE_PLAIN = 'Movies and'
+   export const TITLE_ITALIC = 'Shows'
